@@ -1,4 +1,4 @@
-# Supermarket Business Analysis 📊
+# Supermarket Business Analysis using RFM📊
 
 This repository contains a business analysis project aimed at understanding and optimizing supermarket operations through data analysis. The analysis focuses on sales trends, customer behavior, and performance metrics using Python and Jupyter Notebook.
 
