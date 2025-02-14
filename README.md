@@ -58,11 +58,11 @@ To address the identified problems, the project focuses on the following boundar
 
 3. **RFM Segmentation**:
    - Created RFM scores for all customers and segmented them into actionable groups:
-     - **Champions**: High recency, frequency, and monetary value.
-     - **Loyal Customers**: High frequency and monetary value but moderate recency.
-     - **At-Risk Customers**: Low recency and frequency but previously high monetary value.
-     - **New Customers**: High recency but low frequency and monetary value.
-     - **Lost Customers**: Low recency, frequency, and monetary value.
+     - **1st_priority**: High recency, frequency, and monetary value.
+     - **2nd_Loyal**: High frequency and monetary value but moderate recency.
+     - **3rd_Potential_Loyal**: Low recency and frequency but previously high monetary value.
+     - **4th_Up_Recency**: High recency but low frequency and monetary value.
+     - **5th_New_Shopper**: Low recency, frequency, and monetary value.
 
 4. **Sales Contribution Analysis**:
    - Identified the top 5 products contributing the most to sales and revenue.
